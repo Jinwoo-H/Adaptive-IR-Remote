@@ -1,1 +1,1 @@
-"# Adaptive-IR-Remote" 
+Adaptive television remote control made for a client with multiple sclerosis. The remote features MS-friendly capacitive buttons, and custom mappable buttons to simplify use. This project was a part of the final design project of McMaster University's Integrated Cornerstone Design Projects in Engineering (1P13) course.
